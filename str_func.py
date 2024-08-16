@@ -10,6 +10,5 @@ def first_capital():
     first_up = str.capitalize(line)
     return first_up
 
-
 print(capital_letters())
 print (first_capital())
